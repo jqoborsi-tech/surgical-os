@@ -1,0 +1,7 @@
+# NEVER commit anything unencrypted. Only the AES-encrypted index.html belongs here.
+*
+!.gitignore
+!index.html
+!README.md
+!deploy.sh
+!.nojekyll
